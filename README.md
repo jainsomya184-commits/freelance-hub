@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Freelance Hub 
 
 TODO: Document your project here
